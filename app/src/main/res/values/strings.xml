@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="search_city">Search City</string>
+    <string name="enter_city_name">Enter city name...</string>
+    <string name="results">Results:</string>
+    <string name="state">State: %1$s</string>
+    <string name="no_data_found_please_try_again">No data found, please try again.</string>
+    <string name="feels_like">Feels Like: %1$s</string>
+    <string name="max_min">Max: %1$s Min: %2$s</string>
+    <string name="weather_icon_url">https://openweathermap.org/img/wn/%1$s@2x.png</string>
+</resources>
